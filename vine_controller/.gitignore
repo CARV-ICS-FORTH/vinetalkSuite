@@ -1,0 +1,17 @@
+CMakeCache.txt
+*.brk
+*.hdr
+*.o
+/build/
+/CMakeFiles/
+/Makefile
+include/definesEnable.h
+/results/
+credits
+*.csv
+include/definesEnable.h
+*.conf
+customerWeights
+example_config
+reductionUnit
+configurations/*
