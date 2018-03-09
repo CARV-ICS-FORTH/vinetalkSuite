@@ -29,7 +29,6 @@
 #include <ctime>
 #include <unistd.h>
 #include <mutex>
-#include "../include/WeightedRoundRobinScheduler.h"
 
 using namespace ::std;
 
