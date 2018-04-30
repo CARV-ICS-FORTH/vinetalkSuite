@@ -53,3 +53,8 @@ Instructions (We assume that all but the first instructions are invoked from fol
 2. To compile an executor: `make executorName`
 3. To compile a framework: `make frameworkName`
 4. To run the framework found at vaq\_framework.cpp: `make (YYY ?)`
+
+# Publications
+
+Mavridis, S., Pavlidakis, M., Kozanitis, Ch., Chrysos, N., Stamoulias, I., Kachris, C., Soudris, D., & Bilas, A. (2017). VineTalk: Simplifying Software Access and Sharing of FPGAs in Datacenters. 26th International Conference on Field Programmable Logic and Applications (FPL 2017), Ghent, Belgium, 4 - 8 September
+
