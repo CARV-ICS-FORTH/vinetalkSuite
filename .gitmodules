@@ -1,6 +1,6 @@
-[submodule "vinetalkSuite"]
-	path = vinetalkSuite
-	url = git@github.com:vineyard2020/vinetalkSuite.git
 [submodule "vine_talk"]
 	path = vine_talk
 	url = git@github.com:vineyard2020/vine_talk.git
+[submodule "vine_controller"]
+	path = vine_controller
+	url = git@github.com:vineyard2020/vine_controller.git
