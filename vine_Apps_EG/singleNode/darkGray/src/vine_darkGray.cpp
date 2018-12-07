@@ -36,7 +36,7 @@ using std::endl;
 using std::cerr;
 using cimg_library::CImg;
 
-main(int argc, char *argv[]) 
+int main(int argc, char *argv[]) 
 {
 	/* Size of image*/
 	size_t sizeImage, outImageSize;
