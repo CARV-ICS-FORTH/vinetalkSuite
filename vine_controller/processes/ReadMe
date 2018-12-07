@@ -1,5 +1,0 @@
-# Start as many processes as accelthreads
-# If in the example_config file of controller you have 2 accel (accel GPU GPU0 0 0, accel GPU GPU0 1 1)
-# then run : taskset -c 4 ./accelProcess 8001 1 
-# 	     taskset -c 4 ./accelProcess 8000 0
-# 	     (./accelProcess port threadId) 
