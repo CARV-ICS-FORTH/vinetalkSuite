@@ -1,7 +1,7 @@
 # Instructions
 
 ## Download Instructions
-`git clone --recursiv https://github.com/vineyard2020/vinetalkSuite.git`
+`git clone --recursive https://github.com/vineyard2020/vinetalkSuite.git`
 
 # Single node deployment
 First build vine\_talk according to this instructions [vine\_talk](./vine\_talk/README.md)
