@@ -10,6 +10,8 @@ Then build vine\_controller according to this instructions [vine\_controller](./
 
 To write an application with Vinetalk see module: vine\_talk
 
+To import bitstreams to vine_controller use the example_config located in the vine_controller repo  [vine\_controller](./vine\_controller/example_config). In a nutshell create the bitsteam for the FPGA and add the path to the accel field
+of the example_config file.
 # Mesos Deployment.
 
 ## Dependencies:
