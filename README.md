@@ -4,7 +4,7 @@
 `git clone --recursive https://github.com/vineyard2020/vinetalkSuite.git`
 
 # Single node deployment
-First build vine\_talk according to this instructions [vine\_talk](https://github.com/vineyard2020/vine_talk/README.md)
+First build vine\_talk according to this instructions [vine\_talk](https://github.com/vineyard2020/vine_talk/blob/master/README.md)
 
 Then build vine\_controller according to this instructions [vine\_controller](https://github.com/vineyard2020/vine_controller)
 
