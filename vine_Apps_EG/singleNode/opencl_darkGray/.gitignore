@@ -1,0 +1,6 @@
+include/CImg.h
+CImg.h
+CImg/
+output/
+lib/
+bin/
