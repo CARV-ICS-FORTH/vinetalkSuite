@@ -32,7 +32,7 @@ bool opencl_darkGray(
 		// cl::NDRange local(local_work_size[0], local_work_size[1]);
 
 		cl::Kernel kernel = OpenCLGetKernel("rgb_gray");
-		cl::CommandQueue defaultCommandQueue = getDefaultCommandQueue();
+		cl::CommandQueue defaultCommandQueue = cl::CommandQueue::getDefault();
 
 		kernel.setArg(0, width);
 		kernel.setArg(1, height);

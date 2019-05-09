@@ -56,7 +56,7 @@ lib/opencl_darkGray.so: src/opencl_darkGray.cpp
 	$(LINK) -shared $< $(CXXFLAGS) $(OPENCL_INCLUDE) $(OPENCL_LIBS) $(LDDFLAGS) $(OPENCLFLAGS) -o $@ -DLIBRARY_BUILD
 
 run:
-	./bin/vine_darkGray input_images/image01.jpg out.jpg 7
+	./bin/vine_darkGray input_images/image01.jpg out.jpg 
 
 runCompare: bin/compare
 	./bin/compare input_images/image01.jpg out.jpg
