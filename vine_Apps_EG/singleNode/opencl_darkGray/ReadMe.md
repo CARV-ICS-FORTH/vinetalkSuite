@@ -27,3 +27,12 @@ This application runs with two accelerator types CPU and GPU through the use of 
 # Running  
 	./bin/vine_darkGray <inputIimage.jpg> <outputImage.jpg> <accelerator type 1=GPU and 3=CPU>
   	( eg: ./bin/vine_darkGray input_images/image01.jpg out01.jpg 1 )
+# Troubleshouting
+	In case that you get an error saying: [CImg] *** CImgIOException *** [instance(0,0,0,0,(nill),non-shared)] etc...
+	it means that imagemagic is not istalled. 
+	For Centos do the following: 
+		yum install gcc php-devel php-pear
+		yum install ImageMagick ImageMagick-devel
+	For Ubuntu do :
+		sudo apt install php php-common gcc
+		sudo apt install imagemagick
