@@ -2,6 +2,7 @@
 
 ## Download Instructions
 `git clone --recursive https://github.com/vineyard2020/vinetalkSuite.git` (No commit permission)
+
 `git clone --recursive git@github.com:vineyard2020/vinetalkSuite.git` (Enables commits)
 
 # Single node deployment
