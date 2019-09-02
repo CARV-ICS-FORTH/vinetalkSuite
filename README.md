@@ -61,3 +61,6 @@ Instructions (We assume that all but the first instructions are invoked from fol
 # Publications
 
 Mavridis, S., Pavlidakis, M., Kozanitis, Ch., Chrysos, N., Stamoulias, I., Kachris, C., Soudris, D., & Bilas, A. (2017). VineTalk: Simplifying Software Access and Sharing of FPGAs in Datacenters. 26th International Conference on Field Programmable Logic and Applications (FPL 2017), Ghent, Belgium, 4 - 8 September
+
+# Acknowledgments
+This work has received funding from the European Union’s Horizon 2020 research and innovation program under grant agreement No 6876281 VINEYARD: Versatile Integrated Accelerator-based Heterogeneous Data Centers.
